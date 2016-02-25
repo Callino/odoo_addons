@@ -3,7 +3,7 @@
     "name" : "SOL Product Availabilty",
     "version" : "1.0",
     "author" : "Callino (Wolfgang Pichler)",
-    "category" : "Generic Modules/Others",
+    "category" : "Sales",
     "website" : "http://www.callino.at/",
     'summary': "Product availability in sale order lines",
     'description': """
