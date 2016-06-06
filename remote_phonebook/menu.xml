@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <menuitem id="menu_rpb_config" name="Remote Phonebook"
+            parent="base.menu_base_config" sequence="0" groups="base.group_sale_manager"/>
+
+        <menuitem name="Remote Phonebook" id="menu_rpb_config_rpb" parent="menu_rpb_config" action="rpb_action_window"/>
+    </data>
+</openerp>
