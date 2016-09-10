@@ -7,3 +7,5 @@ This is useful for example to get your contacts into the phonebook of your local
 This is the basic module, you do need also a model specific module depending on the desk phone you are using.
 ## remote_phonebook_yealink
 Does add export format for yealink Phones
+## website_deepmenu
+Does allow you to go beyond the 2 levels of website menüs
