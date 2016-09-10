@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <template id="deep_menu_assets" inherit_id="website.assets_frontend" name="Website Deep Menu Asset">
+            <xpath expr="." position="inside">
+                <!-- own files -->
+                <script type="text/javascript" src="/website_deepmenu/static/src/js/website.contentMenu.js"></script>
+            </xpath>
+        </template>
+    </data>
+</openerp>

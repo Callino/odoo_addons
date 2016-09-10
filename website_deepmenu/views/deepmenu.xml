@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <!-- User Navbar -->
+        <template id="deep_menu" inherit_id="website.user_navbar" groups="base.group_website_designer">
+            <xpath expr="//ul[@id='oe_systray']/li/ul[@class='dropdown-menu oe_content_menu']/li/a[@data-action='edit_menu']" position="replace">
+                <a href="#" data-action="edit_deep_menu">Edit Menu</a>
+            </xpath>
+        </template>
+    </data>
+</openerp>
